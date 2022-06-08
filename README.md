@@ -1,6 +1,6 @@
 # vim-settings
 
-The contents of my ~/.vim folder
+The contents of my ~/.vim folder.
 
 To use these settings, run:
 ```
